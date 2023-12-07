@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Kierth
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,c,cpp,bots,figma,heroku,linux,mysql,bootstrap,git,react,nodejs,nextjs,ps,postman,laravel,vercel,vscode&perline=9)](https://skillicons.dev)
 
 ### Github Stats
-[![Kierth's GitHub stats](https://github-readme-stats.vercel.app/api?username=krbvk&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Kierth's GitHub stats](https://github-readme-stats.vercel.app/api?username=krbvk&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redpangilinan&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
