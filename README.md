@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
 ![shinkai](https://github.com/krbvk/krbvk/assets/146813603/815ff282-4598-4bc1-8132-36fae407ca3d)
 
-### Languages and Tools
+# About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
+
+# Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,c,cpp,bots,figma,heroku,linux,mysql,bootstrap,git,react,materialui,nodejs,nextjs,ps,postman,laravel,bash,vercel,vscode&perline=9)](https://skillicons.dev)
 
-### Github Stats
+# Github Stats:
 <!-- [![Kierth's GitHub stats](https://github-readme-stats.vercel.app/api?username=krbvk&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redpangilinan&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
