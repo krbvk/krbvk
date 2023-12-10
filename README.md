@@ -1,4 +1,4 @@
-![shinkai](https://github.com/krbvk/krbvk/assets/146813603/815ff282-4598-4bc1-8132-36fae407ca3d)
+![eve-shinkai](https://github.com/krbvk/krbvk/assets/146813603/b957ec38-8952-4688-9fb4-bb57dfef6efe)
 
 # About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
