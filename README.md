@@ -1,4 +1,7 @@
-### Hi there 👋 I am Kierth
+![shinkai](https://github.com/krbvk/krbvk/assets/146813603/815ff282-4598-4bc1-8132-36fae407ca3d)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71FE4&random=false&width=435&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
+
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,c,cpp,bots,figma,heroku,linux,mysql,bootstrap,git,react,nodejs,nextjs,ps,postman,laravel,vercel,vscode&perline=9)](https://skillicons.dev)
