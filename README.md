@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,c,cpp,bots,figma,heroku,linux,mysql,bootstrap,git,react,materialui,nodejs,nextjs,ps,postman,laravel,bash,vercel,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,c,cpp,bots,figma,heroku,linux,mysql,bootstrap,git,react,materialui,nodejs,nextjs,ps,postman,laravel,bash,vercel,arduino,vscode&perline=9)](https://skillicons.dev)
 
 # Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krbvk)](https://git.io/streak-stats)
