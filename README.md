@@ -8,7 +8,7 @@
 
 # Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krbvk)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Krbvk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Krbvk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krbvk&theme=gruvbox&layout=compact&langs_count=8)
 
