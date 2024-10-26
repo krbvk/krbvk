@@ -1,6 +1,7 @@
-![rainy day](https://github.com/krbvk/krbvk/assets/146813603/3ccde976-e8d1-4de4-9fe3-c51635284d57)
+[![An image of @krbvk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krbvk)](https://holopin.io/@krbvk)
 
 # About Me:
+![rainy day](https://github.com/krbvk/krbvk/assets/146813603/3ccde976-e8d1-4de4-9fe3-c51635284d57)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello+I'm+Kierth)](https://git.io/typing-svg)
 
 # Languages and Tools:
@@ -12,17 +13,3 @@
 # 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krbvk&theme=gruvbox&layout=compact&langs_count=8)
 
-<!--
-**krbvk/krbvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
